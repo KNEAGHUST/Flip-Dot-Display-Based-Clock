@@ -9,6 +9,7 @@ c): Developing a STM32 alghoritm in order to make a real time clock and a way to
 The detailed descripction is available in the project's documentation.
 # Showcase
 ## Driver
-![image](https://github.com/user-attachments/assets/062a1de5-5c95-4990-bb0e-84b118ca8f25)
+![image](https://github.com/user-attachments/assets/dd64811a-9bbe-427c-9f66-92bbc972af38)
 ## Human-Machine Interface
-![image](https://github.com/user-attachments/assets/88197078-d138-4ae7-bb16-a672a2dd109b)
+![image](https://github.com/user-attachments/assets/5c7b495d-bbb9-44a0-8357-0dd837e4e773)
+
